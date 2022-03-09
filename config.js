@@ -5,18 +5,18 @@ var config = {
     markerColor: '#3FB1CE',
     theme: 'light',
     use3dTerrain: false,
-    title: 'The Title Text of this Story',
-    subtitle: 'A descriptive and interesting subtitle to draw in the reader',
-    byline: 'By a Digital Storyteller',
-    footer: 'Source: source citations, etc.',
+    title: 'Lightyears, mustard and diamonds',
+    subtitle: 'The fantastical streetnames of Gothenburg',
+    byline: 'By Silvia Hüttner',
+    footer: '',
     chapters: [
         {
             id: 'GBG in Europe',
             alignment: 'left',
             hidden: false,
-            title: 'Display Title',
+            title: '',
             image: '',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+            description: 'Gothenburg (Swedish: Göteborg) lies on the West coast of Sweden close to Denmark and Norway. It's Sweden's largest city with half a million inhabitants and the largest port in Scandinavia. \n The larger Gothenburg area has 5967 named streets, paths, roads and squares.',
             location: {
                 center: [11.80677, 57.93543],
                 zoom: 2.85,
@@ -45,9 +45,9 @@ var config = {
             id: 'GBG_zoomed_in',
             alignment: 'right',
             hidden: false,
-            title: 'Display Title',
+            title: 'Gothenburg's street clusters',
             image: '',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+            description: 'In 2014, when I moved to Gothenburg from Austria, I noticed that many streets have really cute names. I was more used to streets being named after people, like politicians, poets and composers. This also exists in Gothenburg, but there was also a Tomatostreet, a Trumpetstreet, a Telescopestreet and a Tornadostreet. One friend lived on Springonionstreet, and another one Summerweatherstreet. I discovered that there are whole areas that are space-themed, and others that others that are bird-themed. Here is a collection of my favourite discoveries.',
             location: {
                 center: [11.94893, 57.70678],
                 zoom: 11.36,
@@ -148,7 +148,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Second Title',
-            image: './path/to/image/source.png',
+            image: '',
             description: 'Copy these sections to add to your story.',
             location: {
                 center: [12.04848, 57.78953],
@@ -168,7 +168,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Second Title',
-            image: './path/to/image/source.png',
+            image: '',
             description: 'Copy these sections to add to your story.',
             location: {
                 center: [11.97055, 57.73124],
@@ -189,7 +189,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Second Title',
-            image: './path/to/image/source.png',
+            image: '',
             description: 'Copy these sections to add to your story.',
             location: {
                 center: [12.03926, 57.80342],
@@ -209,7 +209,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Second Title',
-            image: './path/to/image/source.png',
+            image: '',
             description: 'Copy these sections to add to your story.',
             location: {
                 center: [12.01131, 57.68274],
@@ -228,7 +228,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Second Title',
-            image: './path/to/image/source.png',
+            image: '',
             description: 'Copy these sections to add to your story.',
             location: {
                 center: [11.88088, 57.64972],
@@ -248,7 +248,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Second Title',
-            image: './path/to/image/source.png',
+            image: '',
             description: 'Copy these sections to add to your story.',
             location: {
                 center: [11.89705, 57.64402],
@@ -267,7 +267,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Second Title',
-            image: './path/to/image/source.png',
+            image: '',
             description: 'Copy these sections to add to your story.',
             location: {
                 center: [12.04240, 57.75032],
@@ -286,7 +286,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Second Title',
-            image: './path/to/image/source.png',
+            image: '',
             description: 'Copy these sections to add to your story.',
             location: {
                 center: [12.05908, 57.75339],
@@ -306,7 +306,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Second Title',
-            image: './path/to/image/source.png',
+            image: '',
             description: 'Copy these sections to add to your story.',
             location: {
                 center: [11.89899, 57.71651],
@@ -327,7 +327,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Display Title',
-            image: './path/to/image/source.png',
+            image: '',
             description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
             location: {
                 center: [11.94893, 57.70678],
