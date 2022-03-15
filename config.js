@@ -16,7 +16,7 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: "<b>Gothenburg</b> (Swedish: Göteborg) lies on the West coast of Sweden close to Denmark and Norway. It's Sweden's second largest city with half a million inhabitants and the largest port in Scandinavia. <p>The larger Gothenburg area has 5967 named streets, paths, roads and squares on Open Street Map.",
+            description: "<p><b>Gothenburg</b> (Swedish: Göteborg) lies on the west coast of Sweden, close to Denmark and Norway. It's Sweden's second-largest city with half a million inhabitants and the largest port in Scandinavia.</p><p>The larger Gothenburg area has 5,967 named streets, paths, roads and squares on OpenStreetMap.</p>",
             location: {
                 center: [11.80677, 57.93543],
                 zoom: 2.85,
@@ -319,7 +319,7 @@ var config = {
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
-        },{
+        }, {
             id: 'weather_cluster',
             alignment: 'right',
             hidden: false,
